@@ -1,0 +1,54 @@
+#catagories{
+    margin-top:80px;
+}
+#courses{
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+#header{
+    margin-top: 20px !important ;
+}
+#header-style{
+    margin-top: 150px!important;
+}
+
+#header .brand-name{
+    color: #3498bd;
+}
+#header .btn-get-started{
+    font-weight:500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    color: #3498bd;
+    border: 2px solid #3498bd;
+    text-decoration: none;
+}
+#header .btn-get-started:hover{
+    background-color: #3498bd;
+    color: #fff;
+}
+#header img{
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+@-webkit-keyframes up-down {
+    0% {
+         transform: translateY(10px);
+    
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+@keyframes up-down{
+    0% {
+        transform: translateY(10px);
+   
+   }
+   100%{
+       transform: translateY(-10px);
+   }
+}

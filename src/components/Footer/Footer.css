@@ -1,0 +1,42 @@
+#footer{
+    background-color:  #0E0A38;
+}
+
+#footer p{
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px;
+    margin: auto;
+}
+
+#footer h4{
+    padding: 5px;
+
+}
+#icon-style i{
+  font-size: 20px;
+  padding: 20px;
+ 
+  
+}
+#footer h5{
+    padding: 20px;
+    margin: auto;
+}
+#footer h3{
+    padding: 10px 10px 10px 20px;
+    padding-left: 20px
+    
+}
+#footer img{
+   height: 30px;
+    
+}
+#contruct-icon i{
+    margin-right:10px ;
+    font-size: 20px;
+}
+#catagory li{
+   padding-bottom: 10px;
+}
+
